@@ -1,3 +1,20 @@
 {
-    "streams":[]
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a Clash Royale stream",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a LOL stream",
+      "id": 2
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "This was made by me!",
+      "userId": "105128079233996130150",
+      "id": 3
+    }
+  ]
 }
